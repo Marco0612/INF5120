@@ -1,0 +1,15 @@
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/bin/Debug/net7.0/serializacion
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/bin/Debug/net7.0/serializacion.deps.json
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/bin/Debug/net7.0/serializacion.runtimeconfig.json
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/bin/Debug/net7.0/serializacion.dll
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/bin/Debug/net7.0/serializacion.pdb
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/serializacion.csproj.AssemblyReference.cache
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/serializacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/serializacion.AssemblyInfoInputs.cache
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/serializacion.AssemblyInfo.cs
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/serializacion.csproj.CoreCompileInputs.cache
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/serializacion.dll
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/refint/serializacion.dll
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/serializacion.pdb
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/serializacion.genruntimeconfig.cache
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad VI/Ejercicio II/serializacion/obj/Debug/net7.0/ref/serializacion.dll

@@ -1,0 +1,15 @@
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/INF5120- Proyecto Final.csproj.AssemblyReference.cache
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/INF5120- Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/INF5120- Proyecto Final.AssemblyInfoInputs.cache
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/INF5120- Proyecto Final.AssemblyInfo.cs
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/INF5120- Proyecto Final.csproj.CoreCompileInputs.cache
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/bin/Debug/net7.0/INF5120- Proyecto Final
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/bin/Debug/net7.0/INF5120- Proyecto Final.deps.json
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/bin/Debug/net7.0/INF5120- Proyecto Final.runtimeconfig.json
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/bin/Debug/net7.0/INF5120- Proyecto Final.dll
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/bin/Debug/net7.0/INF5120- Proyecto Final.pdb
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/INF5120- Proyecto Final.dll
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/refint/INF5120- Proyecto Final.dll
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/INF5120- Proyecto Final.pdb
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/INF5120- Proyecto Final.genruntimeconfig.cache
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/obj/Debug/net7.0/ref/INF5120- Proyecto Final.dll

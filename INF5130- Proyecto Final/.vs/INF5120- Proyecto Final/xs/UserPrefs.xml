@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1BA39E0A-4111-4B5D-A546-D4ADC10D07FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.INF5120-_220Proyecto_220Final PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Clliente.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="16" Column="19" />
+      <File FileName="Console.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="INF5120- Proyecto Final" expanded="True">
+            <Node name="INF5120- Proyecto Final" expanded="True">
+              <Node name="files" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

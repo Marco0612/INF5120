@@ -1,0 +1,15 @@
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/bin/Debug/net7.0/Programadjd
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/bin/Debug/net7.0/Programadjd.deps.json
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/bin/Debug/net7.0/Programadjd.runtimeconfig.json
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/bin/Debug/net7.0/Programadjd.dll
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/bin/Debug/net7.0/Programadjd.pdb
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/Programadjd.csproj.AssemblyReference.cache
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/Programadjd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/Programadjd.AssemblyInfoInputs.cache
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/Programadjd.AssemblyInfo.cs
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/Programadjd.csproj.CoreCompileInputs.cache
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/Programadjd.dll
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/refint/Programadjd.dll
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/Programadjd.pdb
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/Programadjd.genruntimeconfig.cache
+/Users/marcoreyes/Desktop/INF5120/INF5120- Proyecto Final/Programadjd/obj/Debug/net7.0/ref/Programadjd.dll

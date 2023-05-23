@@ -1,0 +1,15 @@
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/Unidad III.csproj.AssemblyReference.cache
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/Unidad III.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/Unidad III.AssemblyInfoInputs.cache
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/Unidad III.AssemblyInfo.cs
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/Unidad III.csproj.CoreCompileInputs.cache
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/bin/Debug/net7.0/Unidad III
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/bin/Debug/net7.0/Unidad III.deps.json
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/bin/Debug/net7.0/Unidad III.runtimeconfig.json
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/bin/Debug/net7.0/Unidad III.dll
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/bin/Debug/net7.0/Unidad III.pdb
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/Unidad III.dll
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/refint/Unidad III.dll
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/Unidad III.pdb
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/Unidad III.genruntimeconfig.cache
+/Users/marcoreyes/Desktop/UASD/INF5120/Unidad III/obj/Debug/net7.0/ref/Unidad III.dll

@@ -1,0 +1,5 @@
+/Users/marcoreyes/Desktop/INF5120/Unidad_II/Programa_1/obj/Debug/net7.0/Programa_1.csproj.AssemblyReference.cache
+/Users/marcoreyes/Desktop/INF5120/Unidad_II/Programa_1/obj/Debug/net7.0/Programa_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoreyes/Desktop/INF5120/Unidad_II/Programa_1/obj/Debug/net7.0/Programa_1.AssemblyInfoInputs.cache
+/Users/marcoreyes/Desktop/INF5120/Unidad_II/Programa_1/obj/Debug/net7.0/Programa_1.AssemblyInfo.cs
+/Users/marcoreyes/Desktop/INF5120/Unidad_II/Programa_1/obj/Debug/net7.0/Programa_1.csproj.CoreCompileInputs.cache
