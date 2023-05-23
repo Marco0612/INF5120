@@ -6,6 +6,9 @@ interface IPaquete
     void set_PaqueteIlimitado();
     string ToString();
 
+
+
+
 }
 
 
